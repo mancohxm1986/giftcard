@@ -1,0 +1,9 @@
+body.woocommerce-account ul li.woocommerce-MyAccount-navigation-link--pl_download_vouchers a:before{
+	content: " ";
+    background-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2024%2024%22%3E%3Cpath%20d%3D%22M15.005%202.003a4%204%200%200%201%203.464%206.001l4.536-.001v2h-2v10a1%201%200%200%201-1%201h-16a1%201%200%200%201-1-1v-10h-2v-2l4.536.001a4%204%200%200%201%206.465-4.646%203.983%203.983%200%200%201%202.999-1.355Zm-4%208h-6v9h6v-9Zm8%200h-6v9h6v-9Zm-10-6a2%202%200%200%200-.15%203.994l.15.006h2v-2a2%202%200%200%200-1.697-1.977l-.154-.018-.15-.005Zm6%200a2%202%200%200%200-1.995%201.85l-.005.15v2h2a2%202%200%200%200%201.994-1.85l.006-.15a2%202%200%200%200-2-2Z%22%2F%3E%3C%2Fsvg%3E");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    width: 18px;
+    height: 18px;
+}
